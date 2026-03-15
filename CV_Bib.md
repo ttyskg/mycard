@@ -3,9 +3,9 @@
 ## Personal and contact information
 
 **Name:** Tatsuya Sakaguchi  
-**Affiliation:** Chemistry of Functional Molecules, Graduate School of Biomedical Sciences, Nagasaki University  
+**Affiliation:** Division of Chemistry of Functional Molecules, Graduate School of Biomedical Sciences, Nagasaki University  
 **Address:** Nagasaki 852-8521 Japan  
-**Tel:** +81 943 35 3311  
+**Tel:** +81 95 819 2439  
 **Email:** <tatsuya.sakaguchi@nagasaki-u.ac.jp>  
 **Links:** [ORCID](https://orcid.org/0000-0002-5899-9297), [LinkedIn](www.linkedin.com/in/tatsuya-sakauchi), [GitHub](https://github.com/ttyskg), [GoogleScholar](https://scholar.google.co.jp/citations?user=iegt9uoAAAAJ)
 
@@ -54,8 +54,10 @@
 * JSPS KAKEN Grant (12J02657), "Structural control of inorganic nanomaterials by biomineralization based on multimerization and orientation.", **Role: Research Fellow**, 2012 - 2015. (Budget **$24,000**).
 * JSPS KAKEN Grant (16K07307), "Relationship between regulation of heme oxygenase function by posttranslational modification and disease onset due to its breakdown.", **Role: Co-Investigator**, 2016 - 2018.
 * JSPS KAKEN Grant (19K06574), "Mechanism of activity regulation by posttranslational modification of novel medical gas carbon monoxide (CO) producing enzyme.", **Role: Co-Investigator**, 2019 - 2022.
+* JSPS KAKEN Grant (22K06136), "Deciphering the Molecular Regulation of Endogenous Carbon Monoxide Biosynthesis and Engineering Gasotransmitter-Based Therapeutic Platforms.", **Role: Co-Investigator**, 2022 - 2025.
 * JSPS KAKEN Grant (24K10046), "Development of aptamers targeting cell adhesion factors characteristically highly expressed in combined hepatocellular-cholangiocarcinoma and evaluation of their anti-tumor effects.", **Role: Co-Investigator**, 2024-2027.
 * Ishibashi Foundation for the Promotion of Science Grant, "Exploration of new drug targets for bacterial efflux systems through a comprehensive analysis of dynamic protein-protein interaction networks.", **Role: Research Fellow**, 2024-2025.
+* JSPS KAKEN Grant (25K00273), "Elucidation of Drug Response Mechanisms in Bacteria Based on Endogenous Protein-Protein Interaction Network Analysis.", **Role: Rsearch Fellow**, 2025-2028.
 
 ## Skills
 
@@ -108,6 +110,13 @@
 * 2015 - 2019. _Basic chemistry_ for first-year university students in the Department of Nursing, Kurume University School of Medicine.
 * 2015 - 2019. _Basic chemistry_ for students in literature, Kurume University.
 * 2017 - 2019. _Basic chemistry_ for first-year students in Kurume University School for Medical Technology.
+* 2025 - present. _Experimental Training in Physical, Analytical and Hygienic Chemistry and Pharmaceutical Sciences_ for second-year students in Nagasaki University.
+* 2025 - present. _Basic Physical Chemistry_ for first-year students in Nagasaki University.
+* 2025 - present. _Health Science II_ for first- and second-year students in Graduate School of Biomedical Sciences, Nagasaki University.
+* 2026 - present. _Physical Chemistry for Pharmaceutics_ for second-year students in Nagasaki University.
+* 2026 - present. _Physical Biochemistry_ for second-year students in Nagasaki University.
+* 2026 - present. _Physical Chemistry for Beginners_ for first-, second-, third-, and forth-year students in Nagasaki University.
+* 2026 - present. _The Science of Drugs_ for first-, second-, third-, and forth-year students in Nagasaki University.
 
 ## Presentations
 
@@ -127,6 +136,7 @@
 1. **T. Sakaguchi**, Y. Higashimoto, "Estimation of function range of gene by meta-analysis of microarray,"  Research meeting of Japanese Biochemical Society Kyushu branch 2018, 2018, Fukuoka, Japan.
 1. **T. Sakaguchi**, T.K.C. Bahadur, A. Serohijos, "Development of a multi-site bacterial genome editing method for targeting the entire genome", Rencontre Louis-Philippe Bouthillier, 2022, Orford, Canada.
 1. **T. Sakaguchi**, S. Besse, L. Gauthier, Z. Sahaf, O. Peloquin, L. Gonzalez, X. Castellanos-Girouard, N. Koxatug, C. Matta, J.G. Hussin, S.W. Michnick, A.W.R. Serohijos, "Mapping Protein-interaction Quantitative Trait Loci (piQTL) Unveils a Novel Aspect of Gene-Environment Interactions", MonBUG, 2024, Montreal, Canada.
+1. **T. Sakaguchi**, S. Besse, L. Gauthier, Z. Sahaf, R. Ravindran, L. Gonzalez, X. Castellanos-Girouard, C. Clairmeont, N. Koçatug, O. Péloquin, C. Matta, J.G. Hussin, S.W. Michnick, A.W.R. Serohijos, "piQTL: An Approach to Individual Variation Focusing on Protein-Protein Interactions", Biological Chemistry Symposium 2026, Sapporo, Japan.
 
 ### Poster presentations
 
@@ -156,7 +166,7 @@
 ### Invited Reviews
 
 1. J.I.B. Janairo*, **T. Sakaguchi\***, K. Mine, R. Kamada, K. Sakaguchi, Synergic Strategies for the Enhanced Self-Assembly of Biomineralization Peptides for the Synthesis of Functional Nanomaterials, _Protein Peptide Lett._, **25 (1)**, 4-14 (2018).
-1. T. Sakaguchi, Y. Irifune, R. Kamada, K. Sakaguchi, Bacterial Systematic Genetics and Integrated Multi-Omics: Beyond Static Genomics Toward Predictive Models, _Int. J. Mol. Sci._, **26(19)**, 9326 (2025)
+1. **T. Sakaguchi**, Y. Irifune, R. Kamada, K. Sakaguchi, Bacterial Systematic Genetics and Integrated Multi-Omics: Beyond Static Genomics Toward Predictive Models, _Int. J. Mol. Sci._, **26(19)**, 9326 (2025)
 
 ### Articles
 
@@ -171,8 +181,9 @@
 1. **T. Sakaguchi**, J.I.B. Janairo, M. Lussier-Price, J. Wada, J.G. Omichinski, K. Sakaguchi, Oligomerization enhances the binding affinity of a silver biomineralization peptide and catalyzes nanostructure formation, _Sci. Rep._, **7 (1)**, 1400 (2017).
 1. Y. Nishino, **T. Sakaguchi**, Y. Higashimoto, T. Matsui, S.I. Yamagishi, Cellulose-derived charcoal binds to glyceraldehyde-driven advanced glycation end products in vitro, _Diabetes Frontier Online_, **5**, e1-008 (2018).
 1. Y. Higashimoto, K. Tanaka, T. Matsui, **T. Sakaguchi**, S.I. Yamagishi, Y. Motomiya, Fibroblast Growth factor 23 Contributes to Regulation of Hepcidin/Ferroportin Axis, _Austin J Pharmacol. Ther_, **8(1)**, 1118 (2020).
-1. T. Sakaguchi, N. Nakagawa, K. Mine, J.I.B. Janairo, R. Kamada, J.G. Omichinski, K. Sakaguchi, Biomineralization through a Symmetry-Controlled Oligomeric Peptide, _Biomimetics_, **8(8)**, 606 (2023).
-1. S. Besse, T. Sakaguchi, L. Gauthier, Z. Sahaf, O. Péloquin, L. Gonzalez, X. Castellanos-Girouard, N. Koçatug, C. Matta, J.G. Hussin, S.W. Michnick, A.W.R. Serohijos, Genetic landscape of an in vivo protein interactom, bioRxiv, DOI: 10.1101/2023.12.14.571726 (2023).
-1. T. Matsui, T. Sakaguchi, Y. Higashimoto, Y. Nishino, A. Sotokawauchi, Y. Koga, S.I. Yamagishi, Sulforaphane inhibits cardiac fibrosis induced by advanced glycation end product-receptor axis through its anti-oxidative property, _Acta Diabetol._, **62(9)**, 1569-1572 (2025).
+1. **T. Sakaguchi**, N. Nakagawa, K. Mine, J.I.B. Janairo, R. Kamada, J.G. Omichinski, K. Sakaguchi, Biomineralization through a Symmetry-Controlled Oligomeric Peptide, _Biomimetics_, **8(8)**, 606 (2023).
+1. S. Besse, **T. Sakaguchi**, L. Gauthier, Z. Sahaf, O. Péloquin, L. Gonzalez, X. Castellanos-Girouard, N. Koçatug, C. Matta, J.G. Hussin, S.W. Michnick, A.W.R. Serohijos, Genetic landscape of an in vivo protein interactom, _bioRxiv_, DOI: 10.1101/2023.12.14.571726 (2023).
+1. T. Matsui, **T. Sakaguchi**, Y. Higashimoto, Y. Nishino, A. Sotokawauchi, Y. Koga, S.I. Yamagishi, Sulforaphane inhibits cardiac fibrosis induced by advanced glycation end product-receptor axis through its anti-oxidative property, _Acta Diabetol._, **62(9)**, 1569-1572 (2025).
+1. T Honda, **T Sakaguchi**, A Kuramasu, Cystamine is a redox-dependent inverse agonist of the histamine H4 receptor, _Am J Physiol Cell Physiol_, **330(2)**, C390-C395 (2026).
 
-Last Update: 2025/10/1
+Last Update: 2026/03/15
