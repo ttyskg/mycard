@@ -38,13 +38,14 @@ jobs:
 
       - name: Commit generated cv.html
         run: |
-          if git diff --quiet -- cv.html; then
+          git add cv.html
+
+          if git diff --cached --quiet -- cv.html; then
             echo "No changes to commit"
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add cv.html
           git commit -m "Auto-update cv.html from CV_Bib.md"
           git push
