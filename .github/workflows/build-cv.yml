@@ -1,0 +1,48 @@
+name: Build cv.html from Markdown
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - CV_Bib.md
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-cv:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc
+
+      - name: Generate cv.html
+        run: |
+          pandoc CV_Bib.md \
+            --standalone \
+            --from gfm \
+            --to html5 \
+            --css cv.css \
+            --metadata title="Tatsuya Sakaguchi | CV & Bibliography" \
+            --output cv.html
+
+      - name: Commit generated cv.html
+        run: |
+          if git diff --quiet -- cv.html; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cv.html
+          git commit -m "Auto-update cv.html from CV_Bib.md"
+          git push
