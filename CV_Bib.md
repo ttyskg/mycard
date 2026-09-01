@@ -48,6 +48,7 @@
 * 2013, Excellent presentation award, The Chemical Society of Japan Hokkaido branch.
 * 2014, The Japanese Biochemical Society (JSBi) Certified Bioinformatics Engineer.
 * 2019, The Uehara Memorial Foundation Post-doctoral Fellowship
+* 2026, Excellent Oral Presentation Award, 2026 Annual Meeting of the Japanese Society for Bioinformatics and 14th Life and Medical Informatics Joint Conference 2026 (IIBMP2026)
 
 ## Funding Information
 
@@ -137,6 +138,7 @@
 1. **T. Sakaguchi**, T.K.C. Bahadur, A. Serohijos, "Development of a multi-site bacterial genome editing method for targeting the entire genome", Rencontre Louis-Philippe Bouthillier, 2022, Orford, Canada.
 1. **T. Sakaguchi**, S. Besse, L. Gauthier, Z. Sahaf, O. Peloquin, L. Gonzalez, X. Castellanos-Girouard, N. Koxatug, C. Matta, J.G. Hussin, S.W. Michnick, A.W.R. Serohijos, "Mapping Protein-interaction Quantitative Trait Loci (piQTL) Unveils a Novel Aspect of Gene-Environment Interactions", MonBUG, 2024, Montreal, Canada.
 1. **T. Sakaguchi**, S. Besse, L. Gauthier, Z. Sahaf, R. Ravindran, L. Gonzalez, X. Castellanos-Girouard, C. Clairmeont, N. Koçatug, O. Péloquin, C. Matta, J.G. Hussin, S.W. Michnick, A.W.R. Serohijos, "piQTL: An Approach to Individual Variation Focusing on Protein-Protein Interactions", Biological Chemistry Symposium 2026, Sapporo, Japan.
+1. **T. Sakaguchi**, S. Besse, A.W.R. Serohijos, "The Trans-Regulatory Dominance of Protein-Interaction QTLs Uncovered by High-Throughput Mapping of the Yeast Interactome", 2026 Annual Meeting of the Japanese Society for Bioinformatics and 14th Life and Medical Informatics Joint Conference 2026 (IIBMP2026), Sagamihara, Japan.
 
 ### Poster presentations
 
@@ -165,7 +167,7 @@
 
 ### Invited Reviews
 
-1. J.I.B. Janairo*, **T. Sakaguchi\***, K. Mine, R. Kamada, K. Sakaguchi, Synergic Strategies for the Enhanced Self-Assembly of Biomineralization Peptides for the Synthesis of Functional Nanomaterials, _Protein Peptide Lett._, **25 (1)**, 4-14 (2018).
+1. J.I.B. Janairo\*, **T. Sakaguchi\***, K. Mine, R. Kamada, K. Sakaguchi, Synergic Strategies for the Enhanced Self-Assembly of Biomineralization Peptides for the Synthesis of Functional Nanomaterials, _Protein Peptide Lett._, **25 (1)**, 4-14 (2018).
 1. **T. Sakaguchi**, Y. Irifune, R. Kamada, K. Sakaguchi, Bacterial Systematic Genetics and Integrated Multi-Omics: Beyond Static Genomics Toward Predictive Models, _Int. J. Mol. Sci._, **26(19)**, 9326 (2025)
 
 ### Articles
@@ -184,6 +186,10 @@
 1. **T. Sakaguchi**, N. Nakagawa, K. Mine, J.I.B. Janairo, R. Kamada, J.G. Omichinski, K. Sakaguchi, Biomineralization through a Symmetry-Controlled Oligomeric Peptide, _Biomimetics_, **8(8)**, 606 (2023).
 1. S. Besse, **T. Sakaguchi**, L. Gauthier, Z. Sahaf, O. Péloquin, L. Gonzalez, X. Castellanos-Girouard, N. Koçatug, C. Matta, J.G. Hussin, S.W. Michnick, A.W.R. Serohijos, Genetic landscape of an in vivo protein interactom, _bioRxiv_, DOI: 10.1101/2023.12.14.571726 (2023).
 1. T. Matsui, **T. Sakaguchi**, Y. Higashimoto, Y. Nishino, A. Sotokawauchi, Y. Koga, S.I. Yamagishi, Sulforaphane inhibits cardiac fibrosis induced by advanced glycation end product-receptor axis through its anti-oxidative property, _Acta Diabetol._, **62(9)**, 1569-1572 (2025).
-1. T Honda, **T Sakaguchi**, A Kuramasu, Cystamine is a redox-dependent inverse agonist of the histamine H4 receptor, _Am J Physiol Cell Physiol_, **330(2)**, C390-C395 (2026).
+1. T. Honda, **T. Sakaguchi**, A. Kuramasu, Cystamine is a redox-dependent inverse agonist of the histamine H4 receptor, _Am J Physiol Cell Physiol_, **330(2)**, C390-C395 (2026).
+1. T. Honda, Y. Kondo, **T. Sakaguchi**, Y. Higashimoto, H. Yano, H. Koga, Claudin-2 extracellular loop 1-mimetic peptides functionally inhibit combined hepatocellular-cholangiocarcinoma cells, _Sci. Rep._, in press
+1. S. Besse\*, **T. Sakaguchi\***, L. Gauthier, Z. Sahaf, R. Ravindran, L. Gonzalez, X. Castellanos-Girouard, C. Clairmeont, N. Koçatug, O. Péloquin, C. Matta, J.G. Hussin, S.W. Michnick, A.W.R. Serohijos, Genetic landscape of an in vivo protein interactome, _Nat. Genet._, in press
+1. T. HondaKurume, **T. Sakaguchi**, Y. Yabune, Y. Motomiya, Y. Higashimoto, Extracellular phosphate impairs the albuminproducing phenotype of HepaRG cells with HNF4A downregulation and ERK activation: potential implications for chronic kidney disease-associated hypoalbuminemia, _BMC Nephrol._, in press
 
-Last Update: 2026/03/15
+
+Last Update: 2026/09/01
