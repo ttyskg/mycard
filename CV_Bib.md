@@ -182,14 +182,14 @@
 1. S.I. Yamagishi, T. Matsui, Y. Ishibashi, F. Isami, Y. Abe, **T. Sakaguchi**, Y. Higashimoto, Phytochemicals against advanced glycation end products (AGEs) and the receptor system, _Curr. Pharm. Des._, **23 (8)**, 1135-1141 (2017).
 1. **T. Sakaguchi**, J.I.B. Janairo, M. Lussier-Price, J. Wada, J.G. Omichinski, K. Sakaguchi, Oligomerization enhances the binding affinity of a silver biomineralization peptide and catalyzes nanostructure formation, _Sci. Rep._, **7 (1)**, 1400 (2017).
 1. Y. Nishino, **T. Sakaguchi**, Y. Higashimoto, T. Matsui, S.I. Yamagishi, Cellulose-derived charcoal binds to glyceraldehyde-driven advanced glycation end products in vitro, _Diabetes Frontier Online_, **5**, e1-008 (2018).
-1. Y. Higashimoto, K. Tanaka, T. Matsui, **T. Sakaguchi**, S.I. Yamagishi, Y. Motomiya, Fibroblast Growth factor 23 Contributes to Regulation of Hepcidin/Ferroportin Axis, _Austin J Pharmacol. Ther_, **8(1)**, 1118 (2020).
+1. Y. Higashimoto, K. Tanaka, T. Matsui, **T. Sakaguchi**, S.I. Yamagishi, Y. Motomiya, Fibroblast Growth factor 23 Contributes to Regulation of Hepcidin/Ferroportin Axis, _Austin J. Pharmacol. Ther._, **8(1)**, 1118 (2020).
 1. **T. Sakaguchi**, N. Nakagawa, K. Mine, J.I.B. Janairo, R. Kamada, J.G. Omichinski, K. Sakaguchi, Biomineralization through a Symmetry-Controlled Oligomeric Peptide, _Biomimetics_, **8(8)**, 606 (2023).
 1. S. Besse, **T. Sakaguchi**, L. Gauthier, Z. Sahaf, O. Péloquin, L. Gonzalez, X. Castellanos-Girouard, N. Koçatug, C. Matta, J.G. Hussin, S.W. Michnick, A.W.R. Serohijos, Genetic landscape of an in vivo protein interactom, _bioRxiv_, DOI: 10.1101/2023.12.14.571726 (2023).
 1. T. Matsui, **T. Sakaguchi**, Y. Higashimoto, Y. Nishino, A. Sotokawauchi, Y. Koga, S.I. Yamagishi, Sulforaphane inhibits cardiac fibrosis induced by advanced glycation end product-receptor axis through its anti-oxidative property, _Acta Diabetol._, **62(9)**, 1569-1572 (2025).
-1. T. Honda, **T. Sakaguchi**, A. Kuramasu, Cystamine is a redox-dependent inverse agonist of the histamine H4 receptor, _Am J Physiol Cell Physiol_, **330(2)**, C390-C395 (2026).
+1. T. Honda, **T. Sakaguchi**, A. Kuramasu, Cystamine is a redox-dependent inverse agonist of the histamine H4 receptor, _Am. J. Physiol. Cell Physiol._, **330(2)**, C390-C395 (2026).
 1. T. Honda, Y. Kondo, **T. Sakaguchi**, Y. Higashimoto, H. Yano, H. Koga, Claudin-2 extracellular loop 1-mimetic peptides functionally inhibit combined hepatocellular-cholangiocarcinoma cells, _Sci. Rep._, in press
 1. S. Besse\*, **T. Sakaguchi\***, L. Gauthier, Z. Sahaf, R. Ravindran, L. Gonzalez, X. Castellanos-Girouard, C. Clairmeont, N. Koçatug, O. Péloquin, C. Matta, J.G. Hussin, S.W. Michnick, A.W.R. Serohijos, Genetic landscape of an in vivo protein interactome, _Nat. Genet._, in press
-1. T. HondaKurume, **T. Sakaguchi**, Y. Yabune, Y. Motomiya, Y. Higashimoto, Extracellular phosphate impairs the albuminproducing phenotype of HepaRG cells with HNF4A downregulation and ERK activation: potential implications for chronic kidney disease-associated hypoalbuminemia, _BMC Nephrol._, in press
+1. T. HondaKurume, **T. Sakaguchi**, Y. Yabune, Y. Motomiya, Y. Higashimoto, Acute phosphate-salt exposure is associated with attenuation of the albumin-producing phenotype, HNF4A down-regulation, and ERK activation in HepaRG cells, _BMC Nephrol._, in press
 
 
-Last Update: 2026/09/01
+Last Update: 2026/09/11
