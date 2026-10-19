@@ -188,8 +188,8 @@
 1. T. Matsui, **T. Sakaguchi**, Y. Higashimoto, Y. Nishino, A. Sotokawauchi, Y. Koga, S.I. Yamagishi, Sulforaphane inhibits cardiac fibrosis induced by advanced glycation end product-receptor axis through its anti-oxidative property, _Acta Diabetol._, **62(9)**, 1569-1572 (2025).
 1. T. Honda, **T. Sakaguchi**, A. Kuramasu, Cystamine is a redox-dependent inverse agonist of the histamine H4 receptor, _Am. J. Physiol. Cell Physiol._, **330(2)**, C390-C395 (2026).
 1. T. Honda, Y. Kondo, **T. Sakaguchi**, Y. Higashimoto, H. Yano, H. Koga, Claudin-2 extracellular loop 1-mimetic peptides functionally inhibit combined hepatocellular-cholangiocarcinoma cells, _Sci. Rep._, **16**, 30376 (2026).
-1. S. Besse\*, **T. Sakaguchi\***, L. Gauthier, Z. Sahaf, R. Ravindran, L. Gonzalez, X. Castellanos-Girouard, C. Clairmeont, N. Koçatug, O. Péloquin, C. Matta, J.G. Hussin, S.W. Michnick, A.W.R. Serohijos, Genetic landscape of an in vivo protein interactome, _Nat. Genet._, Online ahead of print.
+1. S. Besse\*, **T. Sakaguchi\***, L. Gauthier, Z. Sahaf, R. Ravindran, L. Gonzalez, X. Castellanos-Girouard, C. Clairmeont, N. Koçatug, O. Péloquin, C. Matta, J.G. Hussin, S.W. Michnick, A.W.R. Serohijos, Genetic landscape of an in vivo protein interactome, _Nat. Genet._, **58(10)**, 2684-2695 (2026).
 1. T. HondaKurume, **T. Sakaguchi**, Y. Yabune, Y. Motomiya, Y. Higashimoto, Acute phosphate-salt exposure is associated with attenuation of the albumin-producing phenotype, HNF4A down-regulation, and ERK activation in HepaRG cells, _BMC Nephrol._, Online ahead of print.
 
 
-Last Update: 2026/10/05
+Last Update: 2026/10/19
